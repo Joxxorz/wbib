@@ -1,0 +1,68 @@
+{
+    "bears": [
+        {
+            "common-name": "Giant Panda",
+            "image": "",
+            "scientific-name": "Melanoleuca",
+            "range": "Central China",
+            "habitat": "Forest",
+            "estimated-population": "500 - 1000"
+        },
+        {
+            "common-name": "Spectacled Bear",
+            "image": "",
+            "scientific-name": "Ornatus",
+            "range": "South American Andes",
+            "habitat": "Shrubland, Grassland and Forest",
+            "estimated-population": "2500 - 10000"
+        },
+        {
+            "common-name": "Sun Bear",
+            "image": "",
+            "scientific-name": "Malayanus",
+            "range": "Southeast Asia",
+            "habitat": "Forest and Shrubland",
+            "estimated-population": "50000"
+        },
+        {
+            "common-name": "Sloth Bear",
+            "image": "",
+            "scientific-name": "Ursinus",
+            "range": "India",
+            "habitat": "Shrubland, Grassland, Forest and Savanna",
+            "estimated-population": "6000 - 11000"
+        },
+        {
+            "common-name": "American Black Bear",
+            "image": "",
+            "scientific-name": "Americanus",
+            "range": "North America",
+            "habitat": "Forest, Inland Wetlands, Grassland, Shrubland and Desert",
+            "estimated-population": "735000 - 941000"
+        },
+        {
+            "common-name": "Brown Bear",
+            "image": "",
+            "scientific-name": "Arctos",
+            "range": "Northern North America and Central Asia",
+            "habitat": "Desert, Forest, Inland, Wetlands, Grassland and Shrubland",
+            "estimated-population": "110000"
+        },
+        {
+            "common-name": "Polar Bear",
+            "image": "",
+            "scientific-name": "Maritimus",
+            "range": "Polar North America and Asia",
+            "habitat": "Marine, Oceanic, Shrubland, Forest, Grassland, Marine, Coastal/Supratidal and Marine Intertidal",
+            "estimated-population": "23000"
+        },
+        {
+            "common-name": "Asian Black Bear",
+            "image": "",
+            "scientific-name": "Thibetanus",
+            "range": "South and East Asia",
+            "habitat": "Forest, Inland Wetlands, Grassland and Shrubland",
+            "estimated-population": "50000"
+        }
+    ]
+}
